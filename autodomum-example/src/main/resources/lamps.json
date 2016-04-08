@@ -1,0 +1,22 @@
+[
+   {
+      "id":"1",
+      "callIds":[
+         "1"
+      ],
+      "x":179,
+      "y":107,
+      "on":false,
+      "name":"Lamp downstairs"
+   },
+   {
+      "id":"2",
+      "callIds":[
+         "2"
+      ],
+      "x":139,
+      "y":340,
+      "on":false,
+      "name":"Lamp upstairs"
+   }
+]

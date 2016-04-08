@@ -38,13 +38,43 @@
 			<dependency>
 				<groupId>com.autodomum</groupId>
 				<artifactId>autodomum-core</artifactId>
-				<version>0.0.1-SNAPSHOT</version>
+				<version>${project.version}</version>
 			</dependency>
 
 			<dependency>
 				<groupId>com.autodomum</groupId>
 				<artifactId>autodomum-webapp</artifactId>
-				<version>0.0.1-SNAPSHOT</version>
+				<version>${project.version}</version>
+			</dependency>
+
+			<dependency>
+				<groupId>com.autodomum</groupId>
+				<artifactId>autodomum-script-nashorn</artifactId>
+				<version>${project.version}</version>
+			</dependency>
+
+			<dependency>
+				<groupId>com.autodomum</groupId>
+				<artifactId>autodomum-provider-telldus</artifactId>
+				<version>${project.version}</version>
+			</dependency>
+
+			<dependency>
+				<groupId>com.autodomum</groupId>
+				<artifactId>autodomum-holiday-sweden</artifactId>
+				<version>${project.version}</version>
+			</dependency>
+
+			<dependency>
+				<groupId>com.autodomum</groupId>
+				<artifactId>autodomum-daylight-algorithm</artifactId>
+				<version>${project.version}</version>
+			</dependency>
+			
+			<dependency>
+				<groupId>com.autodomum</groupId>
+				<artifactId>autodomum-dao-lamp-json</artifactId>
+				<version>${project.version}</version>
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
@@ -109,5 +139,6 @@
 		<module>autodomum-holiday-sweden</module>
 		<module>autodomum-script-nashorn</module>
 		<module>autodomum-provider-telldus</module>
+		<module>autodomum-example</module>
 	</modules>
 </project>
