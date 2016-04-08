@@ -10,7 +10,7 @@
 	</parent>
 	<artifactId>autodomum-script-nashorn</artifactId>
 	<name>autodomum-script-nashorn</name>
-	<url>http://maven.apache.org</url>
+	<url>http://autodomum.com</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
