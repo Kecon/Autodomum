@@ -17,8 +17,8 @@
 
 	<scm>
 		<url>https://github.com/Kecon/Autodomum</url>
-		<connection>scm:git:ssh://git@github.com:Kecon/Autodomum.git</connection>
-		<developerConnection>scm:git:ssh://git@github.com:Kecon/Autodomum.git</developerConnection>
+		<connection>scm:git:ssh://Junkins@github.com:Kecon/Autodomum.git</connection>
+		<developerConnection>scm:git:ssh://Junkins@github.com:Kecon/Autodomum.git</developerConnection>
 		<tag>master</tag>
 	</scm>
 
