@@ -15,6 +15,13 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
+	<scm>
+		<url>https://github.com/Kecon/Autodomum</url>
+		<connection>scm:git:ssh://git@github.com:Kecon/Autodomum.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com:Kecon/Autodomum.git</developerConnection>
+		<tag>master</tag>
+	</scm>
+
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
@@ -70,7 +77,7 @@
 				<artifactId>autodomum-daylight-algorithm</artifactId>
 				<version>${project.version}</version>
 			</dependency>
-			
+
 			<dependency>
 				<groupId>com.autodomum</groupId>
 				<artifactId>autodomum-dao-lamp-json</artifactId>
